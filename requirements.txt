@@ -1,0 +1,7 @@
+numpy
+h5py
+xml
+keras
+sklearn
+matplotlib
+cv2
